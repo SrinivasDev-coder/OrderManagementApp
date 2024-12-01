@@ -1,0 +1,16 @@
+/Users/vsrinivashanumantharao/Desktop/Main Drive/Technical/GraphQLProject/OrderManagementApp/API/Infrastructure/bin/Debug/net8.0/Infrastructure.deps.json
+/Users/vsrinivashanumantharao/Desktop/Main Drive/Technical/GraphQLProject/OrderManagementApp/API/Infrastructure/bin/Debug/net8.0/Infrastructure.dll
+/Users/vsrinivashanumantharao/Desktop/Main Drive/Technical/GraphQLProject/OrderManagementApp/API/Infrastructure/bin/Debug/net8.0/Infrastructure.pdb
+/Users/vsrinivashanumantharao/Desktop/Main Drive/Technical/GraphQLProject/OrderManagementApp/API/Infrastructure/bin/Debug/net8.0/core.dll
+/Users/vsrinivashanumantharao/Desktop/Main Drive/Technical/GraphQLProject/OrderManagementApp/API/Infrastructure/bin/Debug/net8.0/core.pdb
+/Users/vsrinivashanumantharao/Desktop/Main Drive/Technical/GraphQLProject/OrderManagementApp/API/Infrastructure/obj/Debug/net8.0/Infrastructure.csproj.AssemblyReference.cache
+/Users/vsrinivashanumantharao/Desktop/Main Drive/Technical/GraphQLProject/OrderManagementApp/API/Infrastructure/obj/Debug/net8.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vsrinivashanumantharao/Desktop/Main Drive/Technical/GraphQLProject/OrderManagementApp/API/Infrastructure/obj/Debug/net8.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/vsrinivashanumantharao/Desktop/Main Drive/Technical/GraphQLProject/OrderManagementApp/API/Infrastructure/obj/Debug/net8.0/Infrastructure.AssemblyInfo.cs
+/Users/vsrinivashanumantharao/Desktop/Main Drive/Technical/GraphQLProject/OrderManagementApp/API/Infrastructure/obj/Debug/net8.0/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/vsrinivashanumantharao/Desktop/Main Drive/Technical/GraphQLProject/OrderManagementApp/API/Infrastructure/obj/Debug/net8.0/Infrastructure.sourcelink.json
+/Users/vsrinivashanumantharao/Desktop/Main Drive/Technical/GraphQLProject/OrderManagementApp/API/Infrastructure/obj/Debug/net8.0/Infrastr.15EFFBFE.Up2Date
+/Users/vsrinivashanumantharao/Desktop/Main Drive/Technical/GraphQLProject/OrderManagementApp/API/Infrastructure/obj/Debug/net8.0/Infrastructure.dll
+/Users/vsrinivashanumantharao/Desktop/Main Drive/Technical/GraphQLProject/OrderManagementApp/API/Infrastructure/obj/Debug/net8.0/refint/Infrastructure.dll
+/Users/vsrinivashanumantharao/Desktop/Main Drive/Technical/GraphQLProject/OrderManagementApp/API/Infrastructure/obj/Debug/net8.0/Infrastructure.pdb
+/Users/vsrinivashanumantharao/Desktop/Main Drive/Technical/GraphQLProject/OrderManagementApp/API/Infrastructure/obj/Debug/net8.0/ref/Infrastructure.dll
